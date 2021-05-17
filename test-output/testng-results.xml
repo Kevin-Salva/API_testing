@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-17T16:51:43 PST" name="Default suite" finished-at="2021-05-17T16:51:47 PST" duration-ms="3659">
+    <groups>
+    </groups>
+    <test started-at="2021-05-17T16:51:43 PST" name="Default test" finished-at="2021-05-17T16:51:47 PST" duration-ms="3659">
+      <class name="testing_java">
+        <test-method signature="atest_post()[pri:0, instance:testing_java@778d1062]" started-at="2021-05-17T16:51:43 PST" name="atest_post" finished-at="2021-05-17T16:51:45 PST" duration-ms="1806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest_post -->
+        <test-method signature="btest_patch()[pri:0, instance:testing_java@778d1062]" started-at="2021-05-17T16:51:45 PST" name="btest_patch" finished-at="2021-05-17T16:51:46 PST" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest_patch -->
+        <test-method signature="ctest_get()[pri:0, instance:testing_java@778d1062]" started-at="2021-05-17T16:51:46 PST" name="ctest_get" finished-at="2021-05-17T16:51:46 PST" duration-ms="337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ctest_get -->
+        <test-method signature="dtest_del()[pri:0, instance:testing_java@778d1062]" started-at="2021-05-17T16:51:46 PST" name="dtest_del" finished-at="2021-05-17T16:51:47 PST" duration-ms="768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dtest_del -->
+      </class> <!-- testing_java -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
